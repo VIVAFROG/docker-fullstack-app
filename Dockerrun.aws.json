@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion": 2,
-    "containerDefinitions:"[
+    "containerDefinitions":[
         {
             "name": "frontend",
             "image": "vivafrog/docker-frontend",
